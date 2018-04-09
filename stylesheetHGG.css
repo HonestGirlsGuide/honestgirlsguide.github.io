@@ -1,5 +1,10 @@
+img {margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+      background-size: contain;
+    }
 h1 {
-  color: pink;
+  color: Black;
   text-align:center;
   font-size: 80px
 }
